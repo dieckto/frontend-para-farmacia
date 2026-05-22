@@ -1,0 +1,1 @@
+no puedes hacer que los proveedores se carguen a purchaseSupliers() sospecho que ni siquiera se estan ejecuntando las funciones, cosa de preguntarle a la ia de alexis jaja
